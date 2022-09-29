@@ -4,7 +4,11 @@ metadata:
   name: guestbook-ui
 spec:
 <<<<<<< HEAD
+<<<<<<< HEAD
   replicas: 2
+=======
+  replicas: 1
+>>>>>>> parent of 916ce9d... change variable
 =======
   replicas: 1
 >>>>>>> parent of 916ce9d... change variable
