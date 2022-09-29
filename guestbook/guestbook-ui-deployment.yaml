@@ -3,7 +3,11 @@ kind: Deployment
 metadata:
   name: guestbook-ui
 spec:
+<<<<<<< HEAD
   replicas: 2
+=======
+  replicas: 1
+>>>>>>> parent of 916ce9d... change variable
   revisionHistoryLimit: 3
   selector:
     matchLabels:
